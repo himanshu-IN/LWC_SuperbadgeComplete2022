@@ -1,1 +1,1 @@
-# Salesforce LWC Copleteed Superbadge code
+# Salesforce LWC Completed Superbadge code
